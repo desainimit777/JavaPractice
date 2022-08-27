@@ -23,6 +23,7 @@ class RefactorNumbers {
         for(int i=0;i<n;i++)
         {
             System.out.println("Hi");
+            System.out.println("Written by Nimit");
         }
     }
 }
